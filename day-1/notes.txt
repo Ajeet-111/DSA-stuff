@@ -1,0 +1,30 @@
+1. Data structures help us organize, maintain and search our data in a better way.
+
+-> there are two types of data structures;
+- Linear : Arrays, linked list, stack and queue.
+- non linear : tree and graph.
+
+2. Algorithms: it is set of instructions to perform a task or to solve a problem.
+
+-> Analysis of algorithm is finding the best algorithm to solve a particular problem.
+- time and space complexity.
+
+- time complexity -> amount of taken taken by algorithm to perform the task.
+- space complexity -> memory or space taken by algorithm to run.
+
+3. Asymptotic notations: mathematical tools used to describe the running time of an algorithm in terms of input size.
+- Best case
+- Average case
+- Worst case
+
+-> notations
+- omega -> best case (least used).
+- big O -> worst case (most used).
+- theta -> both (not usually used).
+
+-> Big O notation
+- time complexity;
+- let's say if T = xn^2 + n + y then time complexity  = O(n^2);
+- any constant results in a time complexity of O(1).
+- any loop will give the time complexity of O(n).
+- any operation gives a time comeplexity of O(1).
