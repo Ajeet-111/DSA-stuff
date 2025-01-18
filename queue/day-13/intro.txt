@@ -1,0 +1,8 @@
+-> stuff related to queues
+- it's a linear data structure
+- it is used to store data
+- insertiona and deletion are done at two different ends unlike stack.
+- called rear and front respectively
+- follows the principle of FIFO(First in First out)
+- insertion : enqueue : at rear end
+- deletion : dequeue : at front ends

@@ -1,0 +1,5 @@
+doubly linked list
+null <-> prev <-> curr <-> next <-> null
+can navigate in forward and backward direction.
+
+- bros like people? two faced.

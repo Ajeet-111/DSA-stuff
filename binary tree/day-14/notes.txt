@@ -1,0 +1,8 @@
+-> Pre-order binary tree traversal:
+- visit the root node
+- traverse the left subtree in pre-order fashion
+- traverse the right subtree in pre-order fashion
+
+-> In-order binary tree traversal:
+- traverse the left subtree in in-order fashion
+- traverse the right subtree in in-order fashion

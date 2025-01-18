@@ -1,0 +1,5 @@
+-> Stack
+
+- it is a linear data structure.
+- its an ordered list in which insertion and deletion are done at top.
+- LIFO: last in first out

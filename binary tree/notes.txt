@@ -1,0 +1,9 @@
+-> Tree
+- its a non-linear data structure used for storing data.
+- it is made up of nodes and edges without having any cycle.
+- each node in a tree can point to n number of nodes in a tree.
+- it is a way of representing heirarchial structure with a parent node called root
+  and many levels of additional nodes.
+
+-> Binary tree
+- a tree in which each node either has zero, one or two child nodees.
