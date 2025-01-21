@@ -18,9 +18,9 @@ public class ValidBST {
         if (root.data <= min || root.data >= max) {
             return false;
         }
-        boolean left = isValid(root.left, min, max);
+        boolean left = isValid(root.left, min, root.data);
         if (left) {
-            boolean right = isValid(root.right, min, max);
+            boolean right = isValid(root.right, root.data, max);
             return right;
         }
         return false;
