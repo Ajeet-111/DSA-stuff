@@ -1,0 +1,5 @@
+-> binary search tree
+- a more organised tree where it is easy to insert and search nodes.
+- the left subtree contains only smaller values than root node.
+- the right subtree contains only the greater values than root node.
+- the left and right subtrees must be BSTs too.
