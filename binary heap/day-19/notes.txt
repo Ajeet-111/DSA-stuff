@@ -1,0 +1,24 @@
+-> Priority queue
+- it is a data structure that allows us to find min/max element among a collection
+of elements in constant time.
+
+-> operations
+- insert(key)
+- deleteMax()
+- deleteMin()
+- getMax()
+- getMin()
+
+-> Binary Heap
+- it is a data structure that helps us in in implementing priority queue efficiently.
+- it is a completebinary tree in which each node value is >= or <= than the value of its childs.
+
+-> min Heap
+- when the nodes in a tree have less value than its child nodes.
+
+-> max Heap
+- when the nodes in a binary tree have value greater than its children.
+
+-> Complete binary tree
+- when all the levels in a binary tree are complete except last levels
+- the last level should have left nodes tho.

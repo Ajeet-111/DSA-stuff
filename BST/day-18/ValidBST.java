@@ -57,13 +57,13 @@ public class ValidBST {
         ValidBST vb = new ValidBST();
         vb.insert(5);
         vb.insert(2);
-        vb.insert(6);
+        vb.insert(3);
         vb.insert(1);
-        vb.insert(7);
+        vb.insert(6);
 
         vb.inOrder(vb.root);
         boolean stuff = vb.isValid(vb.root, Long.MIN_VALUE, Long.MAX_VALUE);
-        if (stuff) {
+        if (stuff == true) {
             System.out.println("valid");
         } else {
             System.out.print("inavlid");
